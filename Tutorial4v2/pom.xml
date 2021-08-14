@@ -21,7 +21,7 @@
       <version>5.5.2</version>
     </dependency>
   </dependencies>
-</project>
+
 
 <build>
     <plugins>
@@ -35,3 +35,4 @@
       </plugin>
     </plugins>
   </build>
+</project>
