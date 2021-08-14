@@ -17,7 +17,7 @@ public class AppTest
     @Test
     public void appTest()
     {
-        assertTrue(App.Calc.add(2, 2) == 4);
+        assertTrue(Calc.add(2, 2) == 4);
 //	assertTrue(App.Calc.subtract(2, 2) == 0);
     }
 
